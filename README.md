@@ -13,7 +13,3 @@ This script monitors a list of websites and sends an email alert if one or more 
 
 ```bash
 pip3 install requests
-
-Enjoy!
-
-Dan Duran
